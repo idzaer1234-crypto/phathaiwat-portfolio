@@ -4,6 +4,10 @@
 **Email:** [idzaer1234@gmail.com](mailto:idzaer1234@gmail.com)  
 **GitHub:** https://github.com/idzaer1234-crypto
 
+## Public CV
+
+An English, project-based CV is available at [cv.html](https://idzaer1234-crypto.github.io/phathaiwat-portfolio/cv.html).
+
 ## Profile
 Independent builder developing practical Web3 and web product prototypes. Public repositories demonstrate hands-on experimentation with wallet connectivity, blockchain transaction flows, front-end interfaces, and developer workflow tooling.
 
