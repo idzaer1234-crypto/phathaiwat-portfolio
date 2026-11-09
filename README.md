@@ -23,3 +23,22 @@ This portfolio presents public prototypes and repository work. It does not claim
 
 ## Contact
 [idzaer1234@gmail.com](mailto:idzaer1234@gmail.com)
+
+## SEO skills & learning
+
+This is a self-directed learning and practice area, not a claim of professional SEO employment or completed client campaigns.
+
+- **Search intent and keyword mapping:** grouping queries by intent and mapping topics to suitable pages.
+- **On-page SEO fundamentals:** titles, meta descriptions, heading hierarchy, URLs, internal links, and useful page content.
+- **Technical SEO fundamentals:** crawlability, indexability, mobile usability, performance, canonical signals, sitemaps, robots directives, and structured data.
+- **SERP and AI search observation:** documenting dated search-result and AI-answer observations and repeating checks over time.
+
+## Housebets contest preparation
+
+Prepared a structured SEO planning starter pack covering keyword mapping, target-page planning, brand SERP observations, AI-answer checks, and a proposed 90-day action plan.
+
+**Evidence limitations:** This work does not include verified Housebets Google Search Console or GA4 data, a completed technical crawl, verified ranking or traffic outcomes, or complete AI-answer coverage. Search-volume and keyword-difficulty metrics are not presented as verified values.
+
+A separate [Housebets sportsbook interface prototype](https://frabjous-chebakia-622cd8.netlify.app/) demonstrates responsive page and user-journey prototyping. It uses fictional demo data and is not a production betting platform.
+
+**Working principle:** recommendations are hypotheses until validated against the live website, technical evidence, and approved analytics data.
